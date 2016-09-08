@@ -1,0 +1,10 @@
+a small subset of images and annotations from the PASCAL VOC 2007 dataset needed to run boda's tests.
+
+retrieved from here:
+
+http://host.robots.ox.ac.uk/pascal/VOC/voc2007/
+
+this indicates that the images are from flikr, and that using them implicitly agrees to flickr's TOS.
+
+it's unclear exactly what the LICENSE of the annotations themselves is.
+
